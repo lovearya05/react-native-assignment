@@ -186,7 +186,8 @@ export default function App() {
 
 
   // this is the function i used to clear all the data
-  // just assigning a new array
+  // just assigning a new array no need to update for localstorage here as 
+  // localstorage is automaticaly updating when gridData change, it is called in useEffect
 
   const clearAllData = ()=>{
     setGridData(Array.from({ length: 11 }, () => Array(6).fill("")))
