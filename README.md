@@ -14,7 +14,7 @@ after clonning the project just go through the commands
   
 3. now you can run the project easily by using command
 
-      npm start or expo start
+        npm start or expo start
 
 
 ![project-SS](https://github.com/lovearya05/react-native-assignment/assets/91359743/213d10c7-2bcd-462e-83ec-c3555140cc28)
