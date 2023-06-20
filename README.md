@@ -2,13 +2,15 @@
 
 commands to start the project
 
+after clonning the project just go through the commands
+
 1. this is expo based project need to install expo globally first
  
- npm i -g expo-cli
+       npm i -g expo-cli
  
 2. now need to initialize nodules by using command
 
-  npm i
+        npm i
   
 3. now you can run the project easily by using command
 
